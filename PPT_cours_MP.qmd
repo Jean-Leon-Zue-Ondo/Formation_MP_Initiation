@@ -1,0 +1,220 @@
+---
+title: "Management de projet: Initiation"
+author: "Jean Leon Zue Ondo"
+format: revealjs
+editor: visual
+---
+
+## Plan de formation
+
+-   Fondamentaux de la gestion de projet
+
+-   Méthodologie de la gestion de projet
+
+-   Les outils prévisionnels des conditions de mise en oeuvre
+
+-   Conduite et maîtrise du déroulement du projet
+
+# **Fondamentaux** de **la gestion de projet**
+
+## Définition (1)
+
+![](images/clipboard-755885177.png)
+
+![](images/clipboard-2983461012.png){width="635"}
+
+## Définition (2)
+
+![](images/clipboard-755885177.png)
+
+![](images/clipboard-474334618.png)
+
+## Type de projet (1)
+
+![](images/clipboard-755885177.png)
+
+![](images/clipboard-1323006793.png)
+
+## Type de projet (2)
+
+![](images/clipboard-755885177.png)
+
+![](images/clipboard-1800596019.png){width="630"}
+
+## Type de projet (3)
+
+![](images/clipboard-755885177.png)
+
+![](images/clipboard-2264643824.png)
+
+## Vocabulaire-Lexique (1)
+
+![](images/clipboard-755885177.png)
+
+![](images/clipboard-2642190609.png)
+
+## Vocabulaire-Lexique (2)
+
+![](images/clipboard-755885177.png)
+
+![](images/clipboard-2887014599.png){width="663"}
+
+## Vocabulaire-Lexique (3)
+
+![](images/clipboard-755885177.png)
+
+![](images/clipboard-3436742715.png)
+
+## Vocabulaire-Lexique (4)
+
+![](images/clipboard-755885177.png)
+
+![](images/clipboard-3616058712.png)
+
+## Vocabulaire-Lexique (5)
+
+![](images/clipboard-755885177.png)
+
+![](images/clipboard-1927734330.png){width="644"}
+
+## Vocabulaire-Lexique (6)
+
+![](images/clipboard-755885177.png)
+
+![](images/clipboard-2703067864.png){width="657"}
+
+## Vocabulaire-Lexique (7)
+
+![](images/clipboard-755885177.png)
+
+![](images/clipboard-1600950686.png){fig-align="center" width="648"}
+
+## Etude de faisabilité (1)
+
+![](images/clipboard-755885177.png)
+
+![](images/clipboard-3010982971.png){width="720" height="461"}
+
+## Etude de faisabilité (2)
+
+![](images/clipboard-755885177.png)
+
+![](images/clipboard-801868159.png)
+
+## Cahier des charges
+
+![](images/clipboard-2035218188.png){width="100000" height="4"}
+
+![](images/clipboard-295573544.png)
+
+# Méthodologie de la gestion de projet
+
+## Méthode de gestion de projet (1)
+
+![](images/clipboard-755885177.png)
+
+![](images/clipboard-3050814732.png){fig-align="center"}
+
+## Méthode de gestion de projet (2)
+
+![](images/clipboard-755885177.png)
+
+![](images/clipboard-1805633285.png){fig-align="center"}
+
+## La démarche projet (1)
+
+![](images/clipboard-755885177.png)
+
+![](images/clipboard-622319895.png)
+
+## La démarche projet (2)
+
+![](images/clipboard-755885177.png){width="683" height="4"}
+
+![](images/clipboard-1251114858.png){fig-align="center" width="717"}
+
+## Clarifier le cadre du projet
+
+![](images/clipboard-755885177.png)
+
+## Construire l'organigramme des tâches (1)
+
+![](images/clipboard-755885177.png)
+
+## Construire l'organigramme des tâches (2)
+
+![](images/clipboard-755885177.png)
+
+## Choisir le modéle de dévelopement (1)
+
+![](images/clipboard-755885177.png)
+
+## Choisir le modéle de dévelopement (2)
+
+![](images/clipboard-755885177.png)
+
+## Choisir le modéle de dévelopement (3)
+
+![](images/clipboard-755885177.png)
+
+## Choisir le modéle de dévelopement (4)
+
+![](images/clipboard-755885177.png)
+
+## Anticiper les risques (1)
+
+![](images/clipboard-755885177.png)
+
+## Anticiper les risques (2)
+
+![](images/clipboard-755885177.png)
+
+## Construire une équipe
+
+![](images/clipboard-755885177.png)
+
+# Les Outils prévisionnels des conditions de mise en oeuvre
+
+## Planning prévisionnel
+
+![](images/clipboard-755885177.png)
+
+## Budget prévisionnel
+
+![](images/clipboard-755885177.png)
+
+## Plan de qualité projet
+
+![](images/clipboard-755885177.png)
+
+# Conduite et maîtrise du déroulement du projet
+
+## Réception et contôle des livrables
+
+![](images/clipboard-755885177.png)
+
+## Pilotage du projet
+
+![](images/clipboard-755885177.png)
+
+## Maîtriser la qualité
+
+![](images/clipboard-755885177.png)
+
+## Maitriser la communication
+
+![](images/clipboard-755885177.png)
+
+## Maitriser les demandes et les évolution (1)
+
+![](images/clipboard-755885177.png)
+
+## Maitriser les demandes et les évolution (2)
+
+![](images/clipboard-755885177.png)
+
+## Le bilan projet
+
+![](images/clipboard-755885177.png)
+
+# Fin
